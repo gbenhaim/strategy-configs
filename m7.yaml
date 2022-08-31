@@ -1,5 +1,5 @@
 ---
 mapping:
   components:
-    - name: hacbs-probe-payload
+    - name: go
       repository: quay.io/hacbs-release-tests/rbean-released-image
