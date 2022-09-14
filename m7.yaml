@@ -1,5 +1,5 @@
 ---
 mapping:
   components:
-    - name: go
-      repository: quay.io/hacbs-release-tests/rbean-released-image
+    - name: devfile-sample-go-basic
+      repository: quay.io/productcicd/hacbs-apps-released
